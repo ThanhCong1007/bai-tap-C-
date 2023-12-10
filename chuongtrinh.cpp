@@ -15,6 +15,9 @@ int main() {
 		cout << "\n6.Tinh so bac ra cua dinh";
 		cout << "\n7.Tinh so bac cua dinh VOHUONG";
 		cout << "\nMoi ban chon: ";
+		cout << "\n6.Tinh so bac ra cua dinh";
+		cout << "\n7.Tinh so bac cua dinh VOHUONG";
+		cout << "\nMoi ban chon: ";
 		cin >> ok;
 		cin.ignore();
 		switch (ok) {
